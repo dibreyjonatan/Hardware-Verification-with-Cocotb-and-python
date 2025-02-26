@@ -1,0 +1,29 @@
+$date
+	Wed Feb 19 05:33:12 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module countup $end
+$var wire 4 ! count [3:0] $end
+$var wire 1 " reset $end
+$var reg 4 # counter [3:0] $end
+$var reg 1 $ clk $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0$
+bx #
+0"
+bx !
+$end
+#20
+1$
+#21
